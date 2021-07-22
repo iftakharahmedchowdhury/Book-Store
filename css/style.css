@@ -1,0 +1,142 @@
+.navImage{
+    width: 60px;
+}
+.navAStoreName{
+    font-family: 'Zen Tokyo Zoo', cursive;
+}   
+.margine-before-home{
+    margin-left: 120px;
+}
+.navButton button{
+    padding: 0;
+    margin: 0;
+    border-color: rgb(209, 203, 203);
+    background-color:peru ;
+    padding: 5px;
+    border-radius: 7px;
+   
+}
+.navButton a{
+    text-decoration:none;
+    color: white; 
+}
+.slider{
+    margin-top: 65px;
+}
+.service{
+    margin-top: 70px;
+    background-color: antiquewhite;
+    padding: 20px;
+   
+}
+.service h4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.service p{
+  font-size: 12px;
+}
+
+.catagories{
+    margin-top: 40px;
+    /* background-color: blanchedalmond; */
+    
+}
+
+.catCol:hover{
+   background-color: blanchedalmond;
+}
+.catagories h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.catagories img{
+    width:80%;
+  align-items: center;
+  margin-left: 10%;
+  margin-top: 4%;
+}
+
+.newProduct{
+    margin-top: 5%;
+    background-color:azure;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    
+}
+.newProduct img{
+    width: 70%;
+    margin-left: 10%;
+}
+.img1Hover:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-in-out;
+ }
+ .img2Hover:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-in-out;
+ }
+ .img3Hover:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-in-out;
+ }
+.newProduct h4{
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.newProduct h5{
+    margin-top: 20px;
+   
+}
+.FourththSecimg1{
+ width: 40%;
+}
+.FourththSecimg2{
+    width: 40%;
+   }
+   
+   .FourththSecimg3{
+    width: 40%;
+  
+   }
+   .sec4{
+       margin-top: 40px;
+   }
+   .sec4 img{
+       display: flex;
+       margin-left: 30%;
+   }
+   .sec4 p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.post{
+    background-color: cadetblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer{
+    background-color:#666666;
+    margin-top: 30px;
+    padding-bottom:20px;
+}
+.footer p{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footerIcon{
+    text-align: center;
+    font-size: 40px;
+}
+.footerIcon a{
+    color: chocolate;
+}
+.rights{
+    margin: 20px;
+    text-align: center;
+}
+
