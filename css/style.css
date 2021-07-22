@@ -16,6 +16,10 @@
     border-radius: 7px;
    
 }
+.navElementss:hover{
+    background-color:tomato;
+    border-radius: 50px;
+}
 .navButton a{
     text-decoration:none;
     color: white; 
